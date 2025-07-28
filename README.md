@@ -12,7 +12,7 @@ A visual chatbot flow builder built with **React** and **React Flow**. Easily cr
 
 ## 📹 Demo Video
 
-🎬 [Watch the Demo]([./Chatbot%20Flow.mp4](https://github.com/Sumitkatkam/Chatbot-flow-builder/blob/main/ChatBot%20Flow.mp4))  
+🎬 [Watch the Demo](https://github.com/Sumitkatkam/Chatbot-flow-builder/blob/main/ChatBot%20Flow.mp4)  
 
 ---
 
